@@ -44,3 +44,9 @@ Feel free to fork, open issues, or suggest new features.
 ---
 
 SeZilla is currently under active development. Stay tuned as we roll out more tools to help you dominate search engines.
+
+## 📄 Public Indexing File
+
+Latest submitted URLs?  
+👉 [Click here to view hub1.txt](https://raw.githubusercontent.com/SezillaCom/Indexer/main/hub1.txt)
+
