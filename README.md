@@ -31,6 +31,7 @@ Whether you’re launching a new site or trying to boost a stale page, Indexer P
 - [ ] Keyword Suggestion AI
 - [ ] Backlink Builder
 - [ ] PageSpeed Automation
+- [ ] SERP Keyword
 - [ ] Full Analytics Dashboard
 
 ## 📁 Repo Structure
